@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "PassMX - Password Mixer",
+  "description": "Password generator. Generates passwords by mixing a secret and a passphrase.",
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": [
+    "tabs",
+    "activeTab"
+  ],
+  "icons": {
+    "16": "images/passmx-16.png",
+    "24": "images/passmx-24.png",
+    "32": "images/passmx-32.png",
+    "64": "images/passmx-64.png",
+    "128": "images/passmx-128.png",
+    "256": "images/passmx-256.png",
+    "512": "images/passmx-512.png"
+  }
+}
